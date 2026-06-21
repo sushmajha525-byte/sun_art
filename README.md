@@ -16,7 +16,7 @@ This project creates a beautiful Sun Art design using Python Turtle Graphics.
 1. Install Python
 2. Run the file:
 
-python sun_art.py
+python turtle_art.py
 
 ## Author
 Created by: Sushma
